@@ -1,7 +1,0 @@
-# Wrangler / Node（若本機執行部署指令）
-node_modules/
-.wrangler/
-
-# 環境變數（勿提交 API Token）
-.env
-.env.*
